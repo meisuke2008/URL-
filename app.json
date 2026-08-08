@@ -1,0 +1,9 @@
+{
+  "name": "com.url_file_sorter",
+  "description": "URL File Sorter Native Host",
+  "path": "C:\\Users\\meisu\\Desktop\\開発\\URL拡張\\app\\app.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://lifdkcdgicceckllfbibphbcnbainhjl/"
+  ]
+}
